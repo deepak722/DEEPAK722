@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deepak722
+- 👋 Hi, I’m @dpk722
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on open source.
