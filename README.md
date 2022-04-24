@@ -5,7 +5,7 @@ A Sleepy Head Developer
 -----------------------
 
 * 🌍  I'm based in New Delhi
-* 🖥️  See my portfolio at [Linktree](http://linktr.ee/_idpk_)
+* 🖥️  Connect with me on my socials [Linktree](http://linktr.ee/_idpk_)
 * ✉️  You can contact me at [deepaksingh956038@gmail.com](mailto:deepaksingh956038@gmail.com)
 * 🧠  I'm learning Web Development
 * 🤝  I'm open to collaborating on Interesting Projects
