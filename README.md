@@ -4,11 +4,11 @@ Hi 👋 My name is Deepak Singh
 A Sleepy Head Developer
 -----------------------
 
-* 🌍  I'm based in New Delhi
+* 🌍  I'm based in Milky Way!
 * 🖥️  Connect with me on my socials [Linktree](http://linktr.ee/_idpk_)
 * ✉️  You can contact me at [deepaksingh956038@gmail.com](mailto:deepaksingh956038@gmail.com)
-* 🧠  I'm learning Web Development
-* 🤝  I'm open to collaborating on Interesting Projects
+* 🧠  I'm learning Development!
+* 🤝  I'm open to collaborating on Interesting Projects!
 * ⚡  I'm good at sleeping!
 
 ### Skills
