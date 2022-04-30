@@ -1,15 +1,18 @@
 Hi 👋 My name is Deepak Singh
 =============================
 
-A Sleepy Head Developer
------------------------
+A Sleepy Head Developer😴
+-------------------------
 
-* 🌍  I'm based in Milky Way!
-* 🖥️  Connect with me on my socials [Linktree](http://linktr.ee/_idpk_)
+Interested in Programming, Development, Astronomy, Cryptography, Astronomy, Blockchain & ofcourse you💞
+
+* 🌍  I'm based in Milky Way🌌
+* 🖥️  Connect with me on my socials at [Linktr.ee/\_idpk\_](http://linktre.ee/_idpk_)
 * ✉️  You can contact me at [deepaksingh956038@gmail.com](mailto:deepaksingh956038@gmail.com)
-* 🧠  I'm learning Development!
-* 🤝  I'm open to collaborating on Interesting Projects!
-* ⚡  I'm good at sleeping!
+* 🚀  I'm currently working on my [Github](http://github.com/deepak722)
+* 🧠  I'm learning Web Dev👨‍💻
+* 🤝  I'm open to collaborating on anything interesting🪄
+* ⚡  I'm good at everything while sleeping😪
 
 ### Skills
 
@@ -26,7 +29,7 @@ A Sleepy Head Developer
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/deepak722" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_idpk_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/deepak722" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/deepak722" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/_idpk_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.facebook.com/deadsoul72" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/deepak722" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_idpk_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/deepak722" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/deepak722" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/_idpk_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/its_deepak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
@@ -37,3 +40,9 @@ A Sleepy Head Developer
 <a href="http://www.github.com/deepak722"><img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak722&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/deepak722"><img src="https://activity-graph.herokuapp.com/graph?username=deepak722&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/deepak722" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak722&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/deepak722/deepak722" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=deepak722&repo=deepak722&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
