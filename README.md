@@ -4,7 +4,7 @@ Hi 👋 My name is Deepak Singh
 A Sleepy Head Developer😴
 -------------------------
 
-Interested in Programming, Development, Cryptography, Astronomy, Blockchain & ofcourse you💞
+Interested in anything interested!
 
 * 🌍  I'm based in Milky Way🌌
 * 🖥️  Connect with me on my socials at [linktr.ee/_idpk_](https://linktr.ee/_idpk_)
