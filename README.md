@@ -7,7 +7,7 @@ A Sleepy Head Developer😴
 Interested in Programming, Development, Cryptography, Astronomy, Blockchain & ofcourse you💞
 
 * 🌍  I'm based in Milky Way🌌
-* 🖥️  Connect with me on my socials at [Linktr.ee/\_idpk\_](http://linktre.ee/_idpk_)
+* 🖥️  Connect with me on my socials at [linktr.ee/_idpk_](https://www.linktre.ee/_idpk_)
 * ✉️  You can contact me at [deepaksingh956038@gmail.com](mailto:deepaksingh956038@gmail.com)
 * 🚀  I'm currently working on my [Github](http://github.com/deepak722)
 * 🧠  I'm learning Web Dev👨‍💻
