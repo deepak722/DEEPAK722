@@ -9,7 +9,7 @@
 
 🧠 I’m learning Web Dev👨🏻‍💻
 
-🖥️Connect with me on my socials at https://linktr.ee/_idpk_
+🖥️Connect with me on my socials at linktr.ee/_idpk_
 
 ✉️  You can contact me at deepaksingh956038@gmail.com
 
